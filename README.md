@@ -3,8 +3,6 @@
 # React Snowfall
 A react component that creates a snowfall effect
 
-- [Live Example](https://cahilfoley.github.io/react-snowfall)
-
 
 ## Installation
 
